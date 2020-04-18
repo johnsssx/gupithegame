@@ -1,0 +1,23 @@
+*
+{
+    background: #f78f34;
+    background: linear-gradient(90deg, #f78f43 0%, #f78f34 6%, #cf5d9a 100%);
+}
+canvas 
+{
+    border: 1px solid rgb(255, 255, 255);
+    background: #000000;
+    position: relative;
+    left: 30%;
+    bottom: -75px;
+}
+
+h2
+{
+    color: #fff;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 600px;
+    font-size: 40px;
+
+}
